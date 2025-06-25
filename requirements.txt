@@ -1,8 +1,7 @@
 streamlit
-openai
+python-dotenv
 crewai
 langchain
 langchain-community
-chromadb
-python-dotenv
-crewai-tools
+openai
+requests

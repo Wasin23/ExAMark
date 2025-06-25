@@ -3,5 +3,7 @@ python-dotenv
 crewai
 langchain
 langchain-community
+langchain-openai
+chromadb
 openai
 requests

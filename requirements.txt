@@ -3,4 +3,6 @@ openai
 crewai
 langchain
 langchain-community
+chromadb
 python-dotenv
+crewai-tools
